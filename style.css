@@ -1,0 +1,31 @@
+.titolo{
+  width::100% ;
+  text-align:center;
+}
+
+.titolo1{
+  width::100% ;
+  text-align::sx;
+}
+
+.button1{
+  float:right;
+}
+
+.titolo2{
+  width::100% ;
+  text-align::sx;
+}
+
+.button2{
+  float:right;
+}
+
+.titolo3{
+  width::100% ;
+  text-align::sx;
+}
+
+.button3{
+  float:right;
+}
