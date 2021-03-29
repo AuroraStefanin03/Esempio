@@ -8,7 +8,7 @@ Cognome : Simoni
 
 Età: 22
 
-Studentessa dell'Università la Sapienza di Roma al  terzo anno nel corso di chimica
+Studentessa dell'Università la Sapienza di Roma al  terzo anno, nel corso di chimica.
 
 Obiettivo: Laurearsi con il massimo dei voti 
 
