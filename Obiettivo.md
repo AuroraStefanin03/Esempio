@@ -1,3 +1,3 @@
 # Progetto 
 
-Creare una  pagina dove l'utente tipo  sceglierà quale corso formativo scegliere in più per il suo inidirizzo tra una serie di corsi. A quel corso dovrà registrarsi  inserendo : email,  nome e cognome,  classe di appartenenza. I corsi sono forniti dalla  scuola di appartenenza.
+Creare una  pagina dove l'utente tipo  scegliere il corso da seguire, registrandosi al corso tramite un pulsante. Il server di per sé riconoscerà l'utente perché già registrata quando si è inscritta all'università.
