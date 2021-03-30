@@ -8,7 +8,7 @@
   text-align::sx;
 }
 
-.button1{
+.button{
   float:right;
 }
 
@@ -17,15 +17,7 @@
   text-align::sx;
 }
 
-.button2{
-  float:right;
-}
-
 .titolo3{
   width::100% ;
   text-align::sx;
-}
-
-.button3{
-  float:right;
 }
